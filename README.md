@@ -20,6 +20,7 @@ Library Management System build in Microsoft SQL Server.
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#database-schema">Database Schema</a></li>
       </ul>
     </li>
     <li><a href="#license">License</a></li>
